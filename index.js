@@ -1,4 +1,4 @@
-const brandNew = true;
+const brandNew = true; // declaring variable named brandNew
 const pullreq = false;
 const pullreq = true;
 const javasc = 10;
