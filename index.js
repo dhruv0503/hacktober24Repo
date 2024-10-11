@@ -14,3 +14,4 @@ function newfunc() {
 
 const last = 20;
 console.log(last);
+alert('console.log succesfull');
